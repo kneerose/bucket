@@ -29,11 +29,6 @@
       "name": "Instagram",
       "logo": "https://kneerose.github.io/bucket/portfolio/images/socialProviderLogo/instagram.png",
       "link": "https://www.instagram.com/niraj.duwal/"
-    },
-    {
-      "name": "Smule",
-      "logo": "https://kneerose.github.io/bucket/portfolio/images/socialProviderLogo/smule.png",
-      "link": "https://www.smule.com/kneerose12"
     }
   ],
   "quotesDetails": {
@@ -70,6 +65,30 @@
       "role": "Ghost theme developer",
       "backgroundColor": "#F4F4F6",
       "image": "https://kneerose.github.io/bucket/portfolio/images/KuberIDE.png"
+    },
+    {
+      "title": "FormUrl",
+      "link": "https://formurl.com/",
+      "description": "A dynamic form management platform that enables seamless creation, distribution, and analysis of forms with advanced features for data collection and insights.",
+      "role": "Fullstack developer",
+      "backgroundColor": "#FFF4E6",
+      "image": "https://kneerose.github.io/bucket/portfolio/images/formurl.png"
+    },
+    {
+      "title": "DrepId",
+      "link": "https://drepid.com/",
+      "description": "A comprehensive identity and access management solution designed to streamline authentication and authorization processes for modern applications.",
+      "role": "Fullstack developer",
+      "backgroundColor": "#E6F3FF",
+      "image": "https://kneerose.github.io/bucket/portfolio/images/drepid.png"
+    },
+    {
+      "title": "OfflinePass",
+      "link": "https://offlinepass.com/",
+      "description": "A secure offline-first application providing encrypted credential storage and management accessible across web, mobile, and browser extensions.",
+      "role": "Fullstack developer, Chrome Extension developer, Mobile app developer",
+      "backgroundColor": "#F0E6FF",
+      "image": "https://kneerose.github.io/bucket/portfolio/images/offlinepass.png"
     }
   ],
   "testimonials": [
@@ -88,8 +107,14 @@
     {
       "thought": "Niraj's attention to detail and problem-solving skills are exemplary. His dedication and innovative approach significantly contributed to the project's success. I enthusiastically recommend Niraj for his software development prowess.",
       "name": "Rupan Chaulagain",
-      "position": "Sr. Software Engineer, Sireto technology",
+      "position": "Sr. Software Engineer",
       "image": "https://kneerose.github.io/bucket/portfolio/images/testimonials/rupan.png"
+    },
+    {
+      "thought": "Working with Niraj has been an exceptional experience. His technical acumen, coupled with strong communication skills, makes him invaluable in a team setting. Niraj consistently delivers high-quality code and demonstrates a keen ability to mentor junior developers.",
+      "name": "Sudip Bhattarai",
+      "position": "Sr. Software Engineer",
+      "image": "https://kneerose.github.io/bucket/portfolio/images/testimonials/sudip.png"
     }
   ],
   "facts": [
