@@ -48,7 +48,7 @@
       "description": "A privacy-focused form builder designed for conscious companies that prioritize the rights and data privacy of their form responders.",
       "role": "Fullstack developer",
       "backgroundColor": "#E8F2FF",
-      "image": "https://kneerose.github.io/bucket/portfolio/images/bettercollected.png"
+      "image": "https://kneerose.github.io/bucket/portfolio/images/project/bettercollected.png"
     },
     {
       "title": "Sireto",
@@ -56,7 +56,7 @@
       "description": "Sireto is a software company based on the Netherlands and Nepal building innovative software and solutions for our partners and valued clients.",
       "role": "Fullstack developer",
       "backgroundColor": "#FDF2FF",
-      "image": "https://kneerose.github.io/bucket/portfolio/images/sireto.png"
+      "image": "https://kneerose.github.io/bucket/portfolio/images/project/sireto.png"
     },
     {
       "title": "Kuber IDE",
@@ -64,7 +64,7 @@
       "description": "PreSetup Environment for writing and trying out plutus contracts and cardano transactions.",
       "role": "Ghost theme developer",
       "backgroundColor": "#F4F4F6",
-      "image": "https://kneerose.github.io/bucket/portfolio/images/KuberIDE.png"
+      "image": "https://kneerose.github.io/bucket/portfolio/images/project/KuberIDE.png"
     },
     {
       "title": "FormUrl",
@@ -72,7 +72,7 @@
       "description": "A dynamic form management platform that enables seamless creation, distribution, and analysis of forms with advanced features for data collection and insights.",
       "role": "Fullstack developer",
       "backgroundColor": "#FFF4E6",
-      "image": "https://kneerose.github.io/bucket/portfolio/images/formurl.png"
+      "image": "https://kneerose.github.io/bucket/portfolio/images/project/formurl.png"
     },
     {
       "title": "DrepId",
@@ -80,7 +80,7 @@
       "description": "Establish a credible presence with your DRep profile by creating a unique, URL-friendly DRep ID. Easily manage, update, and customize your profile to accurately represent your identity and role within the ecosystem.",
       "role": "Fullstack developer",
       "backgroundColor": "#E6F3FF",
-      "image": "https://kneerose.github.io/bucket/portfolio/images/drepId.png"
+      "image": "https://kneerose.github.io/bucket/portfolio/images/project/drepId.png"
     },
     {
       "title": "OfflinePass",
@@ -88,7 +88,15 @@
       "description": "A secure offline-first application providing encrypted credential storage and management accessible across web, mobile, and browser extensions.",
       "role": "Fullstack developer, Chrome Extension developer, Mobile app developer",
       "backgroundColor": "#F0E6FF",
-      "image": "https://kneerose.github.io/bucket/portfolio/images/offlinepass.png"
+      "image": "https://kneerose.github.io/bucket/portfolio/images/project/offlinepass.png"
+    },
+    {
+      "title": "Govtool",
+      "link": "https://gov.tools/",
+      "description": "An open-source governance platform that enables transparent participation in decentralized decision-making. Govtool allows users to explore proposals, vote, and manage governance activities within the ecosystem through a user-friendly interface.",
+      "role": "QA Engineer (Integration & Stress Testing)",
+      "backgroundColor": "#F0E6FF",
+      "image": "https://kneerose.github.io/bucket/portfolio/images/project/govtool.png"
     }
   ],
   "testimonials": [
